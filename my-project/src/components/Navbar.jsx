@@ -2,7 +2,11 @@ import { NavLink } from "react-router-dom";
 import logo from "../assets/images/react_logo.png";
 
 const Navbar = () => {
-  const linkClass = ({ isActive }) => (isActive ? "bg-black" : "text-white");
+  const linkClass = ({ isActive }) =>
+    isActive
+      ? "bg-black text-white hover:bg-gray-800 hover:text-white rounded px-3 py-2"
+      : "text-white hover:bg-gray-800 hover:text-white rounded px-3 py-2";
+
   return (
     <nav className=" bg-indigo-800 border-indigo-300">
       <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
