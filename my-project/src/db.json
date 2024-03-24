@@ -1,0 +1,89 @@
+{
+    "jobs":[
+        {
+            "id":"1",
+            "title":"Front End/React/Full Stack developer",
+            "type":"Full-Time",
+            "description":"Should have minimum 1 years experience in full stack development with React.Experience in React is Must.Should have knowledge about integrating our front-end UI with the constructed API.Exposure to Node, NPM, Bootstrap-Experience in implementing tools/libraries/frameworks like React/ AngularJS.Professional exposure to RESTfull web services.",
+            "location":"Pune(Senapati Bepati Road)",
+            "salary":"3-6 Lacs P.A.",
+            "company":{
+                "name":"RBT Business Solutions",
+                "description":"Smart Monitor provides monitoring and tracking solutions for people with chronic health conditions. Founded in 2009 and headquartered in San Jose, CA, Smart Monitor fuses together sensor, mobile and cloud technologies with big-data analytics in a seamless environment.",
+                "contactEmail":"info@smart-monitor.com",
+                "conatctPhone":"888-4363-367"
+            }
+        },
+        {
+            "id":"2",
+            "title":"Senior React Native/React.js developer",
+            "type":"Full-Time",
+            "description":"Should have minimum 1 years experience with React.Experience in React is Must.Write clean , well designed code.Sound knowledge of java-script (Node.JS, Angular React.Js) and jquery.Brainstorm and communicating technology ideas and issues with peers and management.Multi-task and manage tasks with varying priorities.",
+            "location":"Noida",
+            "salary":"3-6 Lacs P.A.",
+            "company":{
+                "name":"Victorious Infotech",
+                "description":"Victorious Info Tech (P) Ltd. is entrepreneurial startup company focused to create customized solution. Victorious Info Tech (P) Ltd. have always been ahead of the curve in expert and using latest technologies, and have expanded our domain based on industry needs.",
+                "contactEmail":"info@victorous.com",
+                "conatctPhone":"888-4363-345"
+            }
+        },
+        {
+            "id":"3",
+            "title":"Front End (React JS) developer",
+            "type":"Full-Time", 
+            "description":"Should have minimum 1 years experience with React.Experience in React is Must.Must have experience in functional programming, HTML, CSS, CSS3 JavaScript, Object Oriented JS, ECMA Script (ES6), React JS/Angular/TypeScript.Basic understanding of Git.Basic understanding of single page web application.",
+            "location":"New-Delhi",
+            "salary":"3-6 Lacs P.A.",
+            "company":{
+                "name":"Matrix Infotech Solution",
+                "description":"Alphacore Technologies Pvt Ltd focuses on delivering IOT based predictive maintenance solutions to some of the largest global manufacturing companies.",
+                "contactEmail":"info@alphacore.com",
+                "conatctPhone":"888-536-345"
+            }
+        },
+         {
+            "id":"4",
+            "title":"React.js developer",
+            "type":"Full-Time", 
+            "description":"Should have minimum 1 years experience with React.Experience in React is Must.Extensive experience in ReactJs and workflows such as Redux / Flux, Webpack, HTML5, CSS3, SASS, JavaScript (ES6), and other frontend technologies with the expertise to fuse these with modern web development practices.",
+            "location":"New-Delhi",
+            "salary":"3-6 Lacs P.A.",
+            "company":{
+                "name":"Sab Paisa",
+                "description":"SabPaisa (SP) is Indias 1st superaggregating collection and settlement techosystem. We partner with banks and payment companies to help businesses collect money from their customers smoothly, and get realtime reconciliation and reports, whether online or offline. ",
+                "contactEmail":"info@Sabpaisa.com",
+                "conatctPhone":"898-536-345"
+            }
+        },
+         {
+            "id":"5",
+            "title":"React Js developer",
+            "type":"Full-Time", 
+            "description":"Should have minimum 1 years experience with React.Ensuring cross-platform optimization for mobile.Designing user interactions on web pages.",
+            "location":"New-Delhi",
+            "salary":"3-6 Lacs P.A.",
+            "company":{
+                "name":"Vibes Communications",
+                "description":"Vibes Communications is a young and dynamic company immersed in fresh and creative ideas to help clients to grow on the digital front. Based in Noida, we are a google engaged partner company with highly qualified professionals who are certified in Google AdWords and have hands-on experience. We offer effective solutions which will successfully boost up your company position in the online sphere through an effective web promotion strategy that includes digital marketing, web designing, development and mobile app development.Led by professionals with years of experience in brand promotion, Vibes Communications boasts of its expertise in all facets of internet marketing and strategic consultation.",
+                "contactEmail":"info@Vibes.com",
+                "conatctPhone":"835-536-345"
+            }
+        },
+         {
+            "id":"6",
+            "title":"React Js developer",
+            "type":"Full-Time", 
+            "description":"Should have minimum 1 years experience with React.Ensuring cross-platform optimization for mobile.Designing user interactions on web pages.",
+            "location":"Gurugram,Haryana(Udyog Vihar)",
+            "salary":"3-6 Lacs P.A.",
+            "company":{
+                "name":"Hks Manpower India",
+                "description":"HKS Manpower Pvt Ltd is a Software development company based out of GoWork, Asia's largest co-working space. We are helping some of India's largest public-issue companies digitize and develop ground-breaking software. We specialize in e-commerce applications and ERP systems.",
+                "contactEmail":"info@HKS.com",
+                "conatctPhone":"835-536-322"
+            }
+        }
+
+    ]
+}
