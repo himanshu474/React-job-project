@@ -7,7 +7,7 @@ const JobListing = ({ job }) => {
   let description = job.description;
 
   if (!showDescription) {
-    description = description.substring(0, 96) + "!!";
+    description = description.substring(0, 80) + "....";
   }
 
   return (
@@ -17,14 +17,14 @@ const JobListing = ({ job }) => {
           <div className="text-gray-500 my-2">{job.type}</div>
           <h3 className="text-xl font-bold">{job.title}</h3>
         </div>
-        <div className="mb-5">Description</div>
+        <div className="mb-5">{description}</div>
         <button
           onClick={() => setShowDescription((prevState) => !prevState)}
           className="text-indigo-600 mb-5 hover:text-indigo-600"
         >
           {showDescription ? "Less" : "More"}
         </button>
-        <h3 className="text-indigo-400 mb-2">{job.salary}</h3>
+        <h3 className="text-indigo-400 mb-2">{job.salary} </h3>
 
         <div className="border border-gray-200 mb-5"></div>
 
