@@ -3,7 +3,7 @@
         {
             "id":"1",
             "title":"Front End/React/Full Stack developer",
-            "type":"Full-Time",
+            "type":"Part-Time",
             "description":"Should have minimum 1 years experience in full stack development with React.Experience in React is Must.Should have knowledge about integrating our front-end UI with the constructed API.Exposure to Node, NPM, Bootstrap-Experience in implementing tools/libraries/frameworks like React/ AngularJS.Professional exposure to RESTfull web services.",
             "location":"Pune(Senapati Bepati Road)",
             "salary":"3-6 Lacs P.A.",
@@ -17,7 +17,7 @@
         {
             "id":"2",
             "title":"Senior React Native/React.js developer",
-            "type":"Full-Time",
+            "type":"Remote",
             "description":"Should have minimum 1 years experience with React.Experience in React is Must.Write clean , well designed code.Sound knowledge of java-script (Node.JS, Angular React.Js) and jquery.Brainstorm and communicating technology ideas and issues with peers and management.Multi-task and manage tasks with varying priorities.",
             "location":"Noida",
             "salary":"3-6 Lacs P.A.",
@@ -59,7 +59,7 @@
          {
             "id":"5",
             "title":"React Js developer",
-            "type":"Full-Time", 
+            "type":"Remote", 
             "description":"Should have minimum 1 years experience with React.Ensuring cross-platform optimization for mobile.Designing user interactions on web pages.",
             "location":"New-Delhi",
             "salary":"3-6 Lacs P.A.",
