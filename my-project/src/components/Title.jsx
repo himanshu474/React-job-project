@@ -1,6 +1,6 @@
 const Title = ({
-  title = "Become a React Developer",
-  subtitle = "Find React jobs that fits your Skills",
+  title = "Become a Developer",
+  subtitle = "Find jobs that fits your Skills",
 }) => {
   return (
     <section className="bg-indigo-800 py-20 mb-4">
